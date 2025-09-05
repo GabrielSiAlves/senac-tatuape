@@ -16,3 +16,9 @@ Ia é o calculo matemático de corrente
 V = Volts
 A = Amper ou correntes
 Ω = Ohms
+
+U = 5V
+I = 3A
+R = ?   5/3 = 1,66 Ω 
+
+Nunca em circuitos elétricos a corrente vai ser maior que a tensão
