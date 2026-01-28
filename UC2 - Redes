@@ -1,0 +1,29 @@
+PROTOCOLOS
+ICMP - PING ----> TESTE A REDE
+
+HTTP - protocolo de internet não seguro
+
+HTTPS - protocolo de internet seguro
+
+TCP ---> protocolo que vai e vem - se encarrega de entregar o pacote, garante que o site vai abrir por completo
+
+UDP ---> pacotes que acontece em tempo real, entrega de forma rápida
+
+SMTO --> protocolo que enviar e-mails
+
+IMAP --> protocolo que recebe e-mails
+
+DHCP --> ele entrega IP para maquinas (computador)
+
+DNS ---> ele converte IP para nome ou inverso
+
+TFT ---> protocolo de transferência de arquivo
+
+NTP ---> sincroniza horário das maquinas (computador)
+
+IPS SOBRE ELES
+IP fixo ---> você configura manualmente, numero por numero
+
+IP dinamico ---> configura automaticamente
+
+Conflito de IP ---> quando o IP não reconhece
