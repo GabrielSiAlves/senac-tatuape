@@ -1,4 +1,5 @@
 PROTOCOLOS
+
 ICMP - PING ----> TESTE A REDE
 
 HTTP - protocolo de internet não seguro
@@ -27,3 +28,8 @@ IP fixo ---> você configura manualmente, numero por numero
 IP dinamico ---> configura automaticamente
 
 Conflito de IP ---> quando o IP não reconhece
+
+HTTP/HTTPS --- PORTA 80 TCP
+SMTP/IMAP/POP3 --- 143 - TCP
+TFP 69 TCP
+DNS
