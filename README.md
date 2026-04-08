@@ -49,6 +49,6 @@ Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 ---
 
 ## 📬 Contato
-📧 **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
+📧 **Email:** (gabriel.alves090509@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-🐙 **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)
+🐙 **GitHub:** (https://github.com/GabrielSiAlves/senac-tatuape)
